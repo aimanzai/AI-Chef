@@ -23,7 +23,7 @@ Dataset link: [Recipes.csv](https://www.kaggle.com/datasets/thedevastator/better
 For this system, only the columns recipe_name, ingredients, and directions are required. Missing values are automatically filled to ensure smooth text processing. 
 Please ensure you download the dataset from the link above and place recipes.csv in the same directory as main.py.
 
-## My Contribution
+## Group Contribution
 For this group assignment, my responsibilities focused on the core model development, specifically:
 * Implementing the recipe recommendation logic using TF-IDF vectorization and cosine similarity.
 * Developing the key functions that compute similarity scores and generate recommended recipe results.
